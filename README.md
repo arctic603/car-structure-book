@@ -15,4 +15,4 @@
 
 - 使用 [PDF.js](https://mozilla.github.io/pdf.js/) 实现浏览器端 PDF 渲染
 - 部署在 GitHub Pages，无需后端服务
-- PDF 文件通过 Git LFS 托管（原文件 173MB）
+
